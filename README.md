@@ -1,13 +1,4 @@
 # AdvancedWidget1
-Nama  : Shan
-
-Kelas  : XII RPL 3
-
-No. Urut  : 33
-
-NIS  : 4439/1337.063
-
-Nama Sekolah  : SMK Telkom Malang
 
 Screenshot :
 
